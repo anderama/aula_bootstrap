@@ -1,0 +1,45 @@
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+
+.navbar {
+    background-color: #CD5C5C;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.logo {
+    margin-left: 50px;
+    margin-right: 500px;
+}
+
+.quem-somos {
+    background-color: #CDC5BF;
+}
+
+.parceiros {
+    background-color: whitesmoke;
+}
+
+.servicos {
+    background-color: #585858;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.h3-color {
+    color: white;
+    margin: 20px;
+}
+
+
+.digitalinnovation {
+    width: 50%;
+}
+
+.imagem {
+    margin: 10px;
+}
